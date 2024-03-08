@@ -14,7 +14,7 @@ This file showcases the minimum and maximum values of different data types in C,
 2. **Unzip the file** 
 
     ```bash
-    powershell -command "Expand-Archive -Force 'C:\Users\*\Downloads\CSI2440-Assignment-5-main.zip' 'C:\Users\*\Downloads\CSI2440-Assignment-5-main'"
+    powershell -command "Expand-Archive -Force 'C:\Users\*\Downloads\CSI2440-Assignment-5-main.zip' 'C:\Users\*\Downloads'"
     ```
 
 3. **Load into the working directory**
