@@ -5,13 +5,13 @@ This file demonstrates a simple C program that increments an integer variable un
 ## min_max_values.c
 This file showcases the minimum and maximum values of different data types in C, including integers, longs, floats, and doubles. It also demonstrates overflow and underflow behavior for unsigned integers.
 
-## How to Use
+## How to Use 
 
 1. **Download the repository ZIP file directly to your Downloads folder:**
 
     To download the repository ZIP file, click [here](https://github.com/cyberdataint/CSI2440-Assignment-5/archive/main.zip).
 
-2. **Unzip the file**
+2. **Unzip the file** 
 
     ```bash
     powershell -command "Expand-Archive -Force 'C:\Users\*\Downloads\CSI2440-Assignment-5-main.zip' 'C:\Users\*\Downloads\CSI2440-Assignment-5-main'"
