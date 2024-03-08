@@ -1,5 +1,3 @@
-## Overview
-This repository contains two C files demonstrating different aspects of programming in C language.
 
 ## int_to_float_overflow.c:
 This file demonstrates a simple C program that increments an integer variable until a type conversion causes a change in its value.
@@ -28,3 +26,6 @@ This file showcases the minimum and maximum values of different data types in C,
     ```bash
     min_max_values.exe
     ```
+## Download
+
+To download the repository as a ZIP file, click [here](https://github.com/cyberdataint/CSI2440-Assignment-5/archive/main.zip).
